@@ -1,2 +1,34 @@
 # Privacy-Policy
-Privacy Policy for Amazon appstore
+Relax App Forever
+
+Effective Date: April 29, 2026
+
+Relax App Forever ("we", "our", or "us") is committed to protecting your privacy. This application is designed to provide a simple and relaxing experience without collecting user data.
+
+Information Collection and Use
+We do not collect, store, use, or share any personal information or user data.
+You are not required to provide any personal information to use this application.
+
+Device Permissions
+This application may access local media files on your device solely to play video content for relaxation purposes.
+All data remains on your device and is never transmitted externally.
+
+Data Sharing
+We do not share any data with third parties, as no user data is collected.
+
+Third-Party Services
+This application does not use any third-party services, analytics tools, or advertising networks.
+
+Data Security
+Since no personal data is collected or transmitted, your information remains fully private on your device.
+
+Children’s Privacy
+This application is safe for all users, including children. We do not knowingly collect any personal information from anyone.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any updates will be posted on this page with a revised effective date.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact:
+Relax App Forever
+Email: mosab.khalil195@hotmail.com
